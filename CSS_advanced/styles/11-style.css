@@ -29,11 +29,12 @@ h1, h2, h3, h4, h5, h6 {
   text-align: var(--section-header-align);
 }
 
-.card-category, .section-tagline{
+.card-category{
   color: var(--color-primary);
 }
 
 .section-tagline{
+  color: var(--color-primary);
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
