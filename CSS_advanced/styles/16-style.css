@@ -68,7 +68,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .container{
   width: 960px;
-  margin: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 :root {
   --color-primary: #d73953;
