@@ -205,6 +205,10 @@ ul.row{
   background: var(--color-black);
 }
 
+.footer{
+  padding: var(--footer-padding);
+}
+
 .footer-address{
   color: var(--text-color);
 }
@@ -215,8 +219,4 @@ ul.row{
 
 .social-link svg{
   fill: var(--text-color);
-}
-
-.footer{
-  padding: var(--footer-padding);
 }
